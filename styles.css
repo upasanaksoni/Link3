@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background :linear-gradient(to right ,#614385,#516395);
+}
+.container{
+    max-width: 500px;
+    margin: 300px  auto; 
+    background-color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 0 5px 25px rgba(90,87,87,0.3);
+    padding: 25 px;
+    
+}
+h1{
+     text-align: center;
+     margin-bottom: 20px ;
+}
+p{
+    margin-left: 8px;
+}
